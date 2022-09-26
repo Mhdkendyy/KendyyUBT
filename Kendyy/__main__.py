@@ -12,13 +12,13 @@ from pyrogram import idle
 from uvloop import install
 
 from config import BOT_VER
-from Bion import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
-from Bion.helpers.misc import create_botlog, git, heroku
+from Kendyy import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
+from Kendyy.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-✅ **Bion-PyroBot Activated.**
+✅ **Kendyy-UBT Activated.**
 **🏷️ Userbot Version -** `{}`
-**Ketik** `.bion` **untuk Mengecheck Bot**
+**Ketik** `.alive` **untuk Mengecheck Bot**
 """
 
 
@@ -31,19 +31,19 @@ async def main():
             await bot.join_chat("SharingUserbot")
             await bot.join_chat("CilikSupport")
             await bot.join_chat("CilikProject") 
-            await bot.join_chat("ZennXSupport")                        
+            await bot.join_chat("kendyyubtsuportt")                        
             try:
                 await bot.send_message(
                     BOTLOG_CHATID, MSG_ON.format(BOT_VER)
                 )
             except BaseException:
                 pass
-            LOGGER("Bion").info(
+            LOGGER("KendyyUBT").info(
                 f"Logged in as {bot.me.first_name} | [ {bot.me.id} ]"
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("Bion").info(f"Bion-PyroBot v{BOT_VER} ⚙️[⚡ Activated ⚡]")
+    LOGGER("KendyyUBT").info(f"KendyyUBT v{BOT_VER} ⚙️[⚡ Activated ⚡]")
     if bot1 and not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
@@ -51,7 +51,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("Bion").info("Starting Bion-PyroBot")
+    LOGGER("KendyyUBT").info("Starting KendyyUBT")
     install()
     git()
     heroku()
