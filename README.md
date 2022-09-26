@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/6bc7888f28d8798c15a1f.jpg" align="right" width="400" height="400"/>
+<img src="https://telegra.ph/file/6bc7888f28d8798c15a1f.jpg" align="right" width="300" height="200"/>
 
 # Kendyy-UBT <img src="https://img.shields.io/github/v/release/Mhdkendyy/KendyyUBT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
