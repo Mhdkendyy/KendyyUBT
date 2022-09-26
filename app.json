@@ -1,7 +1,7 @@
 {
-  "name": "Bion-PyroBot",
-  "description": "[Bion-PyroBot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
-  "logo": "https://telegra.ph/file/fee99982ddbd1759c8aa8.jpg",
+  "name": "KendyyUBT",
+  "description": "[Mhdkendyy/KendyyUBT] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "logo": "https://telegra.ph/file/6bc7888f28d8798c15a1f.jpg",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
@@ -13,7 +13,7 @@
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/ZennXSupport » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Channel » https://t.me/kendyyubtsuportt » Lalu cari string",
       "required": true
     },
     "BOTLOG_CHATID": {
