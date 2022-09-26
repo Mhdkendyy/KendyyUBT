@@ -1,8 +1,8 @@
 <img src="https://telegra.ph/file/fee99982ddbd1759c8aa8.jpg" align="right" width="200" height="200"/>
 
-# Bion-PyroBot <img src="https://img.shields.io/github/v/release/grey423/CilikMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Kendyy-UBT <img src="https://img.shields.io/github/v/release/Mhdkendyy/KendyyUBT?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
-[Bion-PyroBot](https://github.com/BionXP/Bion-PyroBot) adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram
+[Kendyy-UBT](https://github.com/Mhdkendyy/KendyyUBT) adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram
 
 ## Deploy With Heroku 💌
 
@@ -37,5 +37,5 @@
 This repository is license under [GPL-3 License](https://github.com/grey423/Cilik-Ubot/blob/master/LICENSE)
 <p align="Left">
   </br>
-  <b>Copyright (c) 2022 - BionXP | Bion-PyroBot</b>
+  <b>Copyright (c) 2022 - Mhdkendyy | KendyyUBT</b>
 </p>
