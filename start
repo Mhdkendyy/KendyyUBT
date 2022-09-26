@@ -10,10 +10,10 @@
 
 _starter () {
     echo "Downloading source code"
-    git clone https://github.com/BionXP/Bion-PyroBot
-    cd Bion-PyroBot/ && rm -rf .git
+    git clone https://github.com/Mhdkendyy/KendyyUBT
+    cd KendyyUBT/ && rm -rf .git
     python3 ../updater.py ../requirements.txt requirements.txt
-    echo "Bion-PyroBot v0.2.0, Copyright © 2022 (Grey) <https://github.com/grey423>"
+    echo "KendyyUBT v0.2.0, Copyright © 2022 (Grey) <https://github.com/grey423>"
     python3 -m Bion
 }
 
