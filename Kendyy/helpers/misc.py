@@ -18,7 +18,7 @@ from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError
 
 from config import BRANCH, GIT_TOKEN, HEROKU_API_KEY, HEROKU_APP_NAME
-from Bion import LOGGER
+from Kendyy import LOGGER
 
 HAPP = None
 
@@ -129,9 +129,9 @@ async def create_botlog(client):
     LOGGER("Bion").info(
         "TUNGGU SEBENTAR. SEDANG MEMBUAT GROUP LOG USERBOT UNTUK ANDA"
     )
-    desc = "Group Log untuk Bion-PyroBot.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n⚡ Powered By ~ @ZennXSupport ⚡"
+    desc = "Group Log untuk KendyyUBT.\n\nHARAP JANGAN KELUAR DARI GROUP INI.\n\n⚡ Powered By ~ @kendyyubtsuportt ⚡"
     try:
-        gruplog = await client.create_supergroup("⚡ Bion-L0gs ⚡", desc)
+        gruplog = await client.create_supergroup("⚡ KendyyUBT-L0gs ⚡", desc)
         if await in_heroku():
             heroku_var = HAPP.config()
             heroku_var["BOTLOG_CHATID"] = gruplog.id
