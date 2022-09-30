@@ -16,8 +16,8 @@ from Kendyy import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from Kendyy.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-✅ **Kendyy-UBT Activated.**
-**🏷️ Userbot Version -** `{}`
+💯 **Kendyy-UBT Activated.**
+**🤖 Userbot Version -** `{}`
 **Ketik** `.alive` **untuk Mengecheck Bot**
 """
 
@@ -43,7 +43,7 @@ async def main():
             )
         except Exception as a:
             LOGGER("main").warning(a)
-    LOGGER("KendyyUBT").info(f"KendyyUBT v{BOT_VER} ⚙️[⚡ Activated ⚡]")
+    LOGGER("KendyyUBT").info(f"KendyyUBT v{BOT_VER} ⚙️[✨ Activated ✨]")
     if bot1 and not str(BOTLOG_CHATID).startswith("-100"):
         await create_botlog(bot1)
     await idle()
