@@ -16,8 +16,8 @@ from Kendyy import BOTLOG_CHATID, LOGGER, LOOP, aiosession, bot1, bots
 from Kendyy.helpers.misc import create_botlog, git, heroku
 
 MSG_ON = """
-💯 **Kendyy-UBT Activated.**
-**🤖 Userbot Version -** `{}`
+✅ **Kendyy-UBT Activated.**
+**🏷️ Userbot Version -** `{}`
 **Ketik** `.alive` **untuk Mengecheck Bot**
 """
 
