@@ -23,7 +23,11 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mhdkendyy/kendyyUBT?&style=flat-square&logo=github)](https://github.com/Mhdkendyy/kendyyUBT/fork)
 [![GitHub stars](https://img.shields.io/github/stars/Mhdkendyy/kendyyUBT?&style=flat-square&logo=github)](https://github.com/Mhdkendyy/kendyyUBT/stargazers)
 
+##  DEPLOY TO BOT HEROKU
 
+<p align="center">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Mhdkendyy/kendyyUBT"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="215""/</a>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=TWhka2VuZHl5L0tlbmR5eVVCVCBtYWlu"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="215""/</a>  </p>
 
 ##  DEPLOY TO VIA CYCLIC 
 
