@@ -7,7 +7,7 @@
 
 
 
-[Kendyy-UBT](https://github.com/Mhdkendyy/KendyyUBT) adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram
+[Kendyy-UBT](https://github.com/Mhdkendyy/KendyyUBT) adalah userbot Telegram modular yang berjalan di Python3 
 
 
 
