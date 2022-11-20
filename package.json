@@ -1,3 +1,22 @@
-"scripts": {
-    "start": "node foo.js"
-}
+{
+     "name": "KendyyUBT",
+     "version": "1.0.0",
+     "description": "",
+     "scripts": {
+         "build": "echo \"Downloading source code",
+         "test": "echo \"KendyyUBT v0.2.0, Copyright © 2022 (Grey) <https://github.com/grey423>"
+
+         "start": "node index.js"
+      },
+      "repository": {
+          "type": "git",
+          "url": "git+https://github.com/Mhdkendyy/KendyyUBT.git"
+      },
+      "author": "",
+      "license": "ISC",
+      "bugs": {
+          "url": "https://github.com/Mhdkendyy/KendyyUBT/issues"
+      },
+      "homepage": "https://github.com/Mhdkendyy/KendyyUBT#readme"
+  }
+
